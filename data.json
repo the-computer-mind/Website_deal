@@ -1,0 +1,2922 @@
+{
+	"meta": {
+		"version": 108,
+		"isLayout": true,
+		"template": "aigenerated",
+		"metaTitle": "DealKaro",
+		"ogImageAlt": "",
+		"faviconPath": "dealkaro_adroid12_logo-m7VEQoK1NVcJL62k.png",
+		"ogImagePath": "dealkaro_adroid12_logo-m7VEQoK1NVcJL62k.png",
+		"headerHeight": 141,
+		"defaultLocale": "system",
+		"faviconOrigin": "assets",
+		"ogImageOrigin": "assets",
+		"metaHtmlLanguage": {
+			"title": "English",
+			"value": "en"
+		},
+		"demoEcommerceStoreId": "demo_01G0E9P2R0CFTNBWEEFCEV8EG5",
+		"shouldAddWWWPrefixToDomain": false
+	},
+	"fonts": [{
+		"type": "google",
+		"family": "Ubuntu",
+		"weights": [400, 600, 700, "400", "700"]
+	}, {
+		"type": "google",
+		"family": "Source Sans 3",
+		"weights": [400]
+	}, {
+		"type": "google",
+		"family": "Inter",
+		"weights": ["700"]
+	}],
+	"forms": {
+		"Contact form": {
+			"token": "AGBrQNG86lt8a3ebD6eJm2G1jw9AqrQ3"
+		}
+	},
+	"styles": {
+		"h1": {
+			"font-size": "60px",
+			"font-style": "normal",
+			"font-family": "var(--font-primary)",
+			"font-weight": 700,
+			"line-height": "1",
+			"m-font-size": "38px",
+			"letter-spacing": "-.025em",
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"h2": {
+			"font-size": "48px",
+			"font-style": "normal",
+			"font-family": "var(--font-primary)",
+			"font-weight": 700,
+			"line-height": "1.285",
+			"m-font-size": "34px",
+			"letter-spacing": "-.025em",
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"h3": {
+			"font-size": "36px",
+			"font-style": "normal",
+			"font-family": "var(--font-primary)",
+			"font-weight": 700,
+			"line-height": "1.235",
+			"m-font-size": "32px",
+			"letter-spacing": "-.025em",
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"h4": {
+			"font-size": "14px",
+			"font-style": "normal",
+			"font-family": "var(--font-primary)",
+			"font-weight": 600,
+			"line-height": "1.5",
+			"m-font-size": "14px",
+			"letter-spacing": 0,
+			"text-transform": "uppercase",
+			"text-decoration": "none"
+		},
+		"h5": {
+			"font-size": "32px",
+			"font-style": "normal",
+			"font-family": "var(--font-primary)",
+			"font-weight": 700,
+			"line-height": "1.3em",
+			"m-font-size": "24px",
+			"letter-spacing": 0,
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"h6": {
+			"font-size": "24px",
+			"font-style": "normal",
+			"font-family": "var(--font-primary)",
+			"font-weight": 700,
+			"line-height": "1.3em",
+			"m-font-size": "20px",
+			"letter-spacing": 0,
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"body": {
+			"font-size": "18px",
+			"font-style": "normal",
+			"font-family": "var(--font-secondary)",
+			"font-weight": 400,
+			"line-height": "1.5em",
+			"m-font-size": "16px",
+			"letter-spacing": 0,
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"font": {
+			"primary": "'Ubuntu', sans-serif",
+			"secondary": "'Source Sans 3', sans-serif"
+		},
+		"nav-link": {
+			"color": "rgb(37, 43, 51)",
+			"font-size": "18px",
+			"font-style": "normal",
+			"color-hover": "rgb(37, 43, 51)",
+			"font-family": "var(--font-secondary)",
+			"font-weight": 400,
+			"line-height": "1.5em",
+			"m-font-size": "16px",
+			"letter-spacing": 0,
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"body-large": {
+			"font-size": "20px",
+			"font-style": "normal",
+			"font-family": "var(--font-secondary)",
+			"font-weight": 400,
+			"line-height": "1.5em",
+			"m-font-size": "18px",
+			"letter-spacing": 0,
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"body-small": {
+			"font-size": "14px",
+			"font-style": "normal",
+			"font-family": "var(--font-secondary)",
+			"font-weight": 400,
+			"line-height": "1.5em",
+			"m-font-size": "14px",
+			"letter-spacing": 0,
+			"text-transform": "none",
+			"text-decoration": "none"
+		},
+		"grid-button-primary": {
+			"font-size": "16px",
+			"padding-x": "40px",
+			"padding-y": "16px",
+			"font-style": "normal",
+			"border-null": "",
+			"font-family": "var(--font-secondary)",
+			"font-weight": 400,
+			"line-height": "normal",
+			"m-font-size": "16px",
+			"m-padding-x": "36px",
+			"m-padding-y": "14px",
+			"box-shadow-x": "0px",
+			"box-shadow-y": "0px",
+			"border-radius": "0",
+			"letter-spacing": "normal",
+			"text-transform": "none",
+			"box-shadow-blur": "0px",
+			"box-shadow-null": "",
+			"m-border-radius": "0",
+			"text-decoration": "none",
+			"box-shadow-color": "rgba(0, 0, 0, 0)",
+			"border-null-hover": "",
+			"box-shadow-spread": "0px",
+			"box-shadow-x-hover": "0px",
+			"box-shadow-y-hover": "0px",
+			"transition-duration": "0.2s",
+			"background-color-null": "",
+			"box-shadow-blur-hover": "0px",
+			"box-shadow-null-hover": "",
+			"box-shadow-color-hover": "0px",
+			"box-shadow-spread-hover": "0px",
+			"transition-timing-function": "ease",
+			"background-color-null-hover": ""
+		},
+		"grid-button-secondary": {
+			"font-size": "16px",
+			"padding-x": "40px",
+			"padding-y": "16px",
+			"font-style": "normal",
+			"border-null": "",
+			"font-family": "var(--font-secondary)",
+			"font-weight": 400,
+			"line-height": "normal",
+			"m-font-size": "16px",
+			"m-padding-x": "36px",
+			"m-padding-y": "14px",
+			"box-shadow-x": "0px",
+			"box-shadow-y": "0px",
+			"border-radius": "0",
+			"letter-spacing": "normal",
+			"text-transform": "none",
+			"box-shadow-blur": "0px",
+			"box-shadow-null": "",
+			"m-border-radius": "0",
+			"text-decoration": "none",
+			"box-shadow-color": "rgba(0, 0, 0, 0)",
+			"border-null-hover": "",
+			"box-shadow-spread": "0px",
+			"box-shadow-x-hover": "0px",
+			"box-shadow-y-hover": "0px",
+			"transition-duration": "0.2s",
+			"background-color-null": "",
+			"box-shadow-blur-hover": "0px",
+			"box-shadow-null-hover": "",
+			"box-shadow-color-hover": "0px",
+			"box-shadow-spread-hover": "0px",
+			"transition-timing-function": "ease",
+			"background-color-null-hover": ""
+		}
+	},
+	"languages": {
+		"system": {
+			"nav": [{
+				"isHidden": false,
+				"linkType": "Page",
+				"subItems": [],
+				"navItemId": "home",
+				"linkedPageId": "home"
+			}, {
+				"isHidden": false,
+				"linkType": "Page",
+				"subItems": [],
+				"navItemId": "zWBDB9",
+				"linkedPageId": "page-about"
+			}, {
+				"isHidden": false,
+				"linkType": "Page",
+				"subItems": [],
+				"navItemId": "zemweo",
+				"linkedPageId": "page-contacts"
+			}, {
+				"isHidden": false,
+				"linkType": "Page",
+				"subItems": [],
+				"navItemId": "zX0fdB",
+				"linkedPageId": "zvQTaO"
+			}, {
+				"isHidden": false,
+				"linkType": "Page",
+				"subItems": [],
+				"navItemId": "zyRLCl",
+				"linkedPageId": "zSH8HH"
+			}, {
+				"isHidden": false,
+				"linkType": "Page",
+				"subItems": [],
+				"navItemId": "zry6cA",
+				"linkedPageId": "zGi4Fl"
+			}],
+			"pages": {
+				"home": {
+					"meta": {
+						"title": "DealKaro - India's No.1 Escrow Platform for Safe and Secure Deals",
+						"keywords": ["DealKaro", "Escrow Platform", "small product deal"],
+						"description": "DealKaro is India's leading Escrow Platform, offering a secure and scam-free environment for making small product deals and property transactions. Download the DealKaro app now for instant payouts, 24/7 support, and a hidden product selling feature. No GST or KYC details required."
+					},
+					"name": "Home",
+					"slug": "",
+					"type": "default",
+					"blocks": ["hero", "section1", "section2", "section3", "about", "slogan", "contact"]
+				},
+				"zGi4Fl": {
+					"meta": {
+						"noindex": false,
+						"password": "",
+						"ogImageAlt": "",
+						"ogImagePath": null,
+						"ogImageOrigin": null,
+						"passwordDesign": "default",
+						"passwordBackText": "Back to",
+						"passwordButtonText": "Enter",
+						"passwordHeadingText": "Guest area",
+						"passwordSubheadingText": "Please enter the password to access the page",
+						"passwordPlaceholderText": "Type password"
+					},
+					"name": "Terms and conditions",
+					"slug": "terms-and-conditions-zGi4Fl",
+					"type": "default",
+					"blocks": ["z6bWkE"],
+					"isHidden": false
+				},
+				"zSH8HH": {
+					"meta": {
+						"noindex": false,
+						"password": "",
+						"ogImageAlt": "",
+						"ogImagePath": null,
+						"ogImageOrigin": null,
+						"passwordDesign": "default",
+						"passwordBackText": "Back to",
+						"passwordButtonText": "Enter",
+						"passwordHeadingText": "Guest area",
+						"passwordSubheadingText": "Please enter the password to access the page",
+						"passwordPlaceholderText": "Type password"
+					},
+					"name": "Refund policy",
+					"slug": "refund-policy-zSH8HH",
+					"type": "default",
+					"blocks": ["zIGbcv"],
+					"isHidden": false
+				},
+				"zvQTaO": {
+					"meta": {
+						"noindex": false,
+						"password": "",
+						"ogImageAlt": "",
+						"ogImagePath": null,
+						"ogImageOrigin": null,
+						"passwordDesign": "default",
+						"passwordBackText": "Back to",
+						"passwordButtonText": "Enter",
+						"passwordHeadingText": "Guest area",
+						"passwordSubheadingText": "Please enter the password to access the page",
+						"passwordPlaceholderText": "Type password"
+					},
+					"name": "Privacy policy",
+					"slug": "privacy-policy-zvQTaO",
+					"type": "default",
+					"blocks": ["zPIrFL"],
+					"isHidden": false
+				},
+				"page-about": {
+					"meta": {
+						"noindex": false,
+						"ogImageAlt": "",
+						"ogImagePath": null,
+						"ogImageOrigin": null
+					},
+					"name": "About",
+					"slug": "about",
+					"type": "default",
+					"blocks": ["about-1", "principles", "zmO5Uf"],
+					"isHidden": false
+				},
+				"page-contacts": {
+					"meta": {
+						"noindex": false,
+						"ogImageAlt": "",
+						"ogImagePath": null,
+						"ogImageOrigin": null
+					},
+					"name": "Contacts",
+					"slug": "contacts",
+					"type": "default",
+					"blocks": ["contact-1", "zAAn8A"],
+					"isHidden": false
+				}
+			},
+			"blocks": {
+				"hero": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 489
+					},
+					"desktop": {
+						"minHeight": 822
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["hero-title", "hero-subtitle", "hero-image-1", "zAXihj"],
+					"background": {
+						"color": "#243328",
+						"current": "color"
+					},
+					"components": ["hero-title", "hero-subtitle", "hero-image-1", "zAXihj"]
+				},
+				"about": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 330
+					},
+					"desktop": {
+						"minHeight": 389
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["about-title", "about-description"],
+					"background": {
+						"path": null,
+						"color": "#FFFFFF",
+						"image": null,
+						"origin": null,
+						"current": "color"
+					},
+					"components": ["about-title", "about-description"]
+				},
+				"header": {
+					"type": "BlockNavigation",
+					"mobile": {
+						"logoHeight": 18
+					},
+					"desktop": {
+						"logoHeight": 18
+					},
+					"settings": {
+						"styles": {
+							"width": "1240px",
+							"padding": "32px 16px 32px 16px",
+							"m-padding": "24px 16px 24px 16px",
+							"logo-width": "99.15299999999999px",
+							"cartIconSize": "24px",
+							"m-logo-width": "99.15299999999999px",
+							"oldContentWidth": "1600px",
+							"menu-item-spacing": "40px",
+							"space-between-menu": "64px",
+							"m-menu-item-spacing": "20px",
+							"contrastBackgroundColor": "rgb(220, 220, 220)"
+						},
+						"cartText": "Shopping bag",
+						"isSticky": true,
+						"showLogo": true,
+						"isCartVisible": true,
+						"logoImagePath": "ai-logo-YKboG9JXN5sPN2X4.svg",
+						"logoPlacement": "left",
+						"logoImageOrigin": "assets",
+						"m-logoPlacement": "left",
+						"navigationPlacement": "right",
+						"m-navigationPlacement": "right"
+					},
+					"zindexes": [],
+					"background": {
+						"color": "#243328",
+						"current": "color",
+						"isTransparent": false
+					},
+					"components": [],
+					"logoAspectRatio": 5.5,
+					"navLinkTextColor": "#FFFFFF",
+					"navLinkTextColorHover": "#FFFFFF"
+				},
+				"slogan": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 303
+					},
+					"desktop": {
+						"minHeight": 394
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["slogan-title", "zyqhd-"],
+					"background": {
+						"color": "#243328",
+						"current": "color"
+					},
+					"components": ["slogan-title", "zyqhd-"]
+				},
+				"z1ORrW": {
+					"slot": "footer",
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 527
+					},
+					"desktop": {
+						"minHeight": 245
+					},
+					"settings": {
+						"styles": {
+							"cols": "12",
+							"rows": 6,
+							"width": "1224px",
+							"m-rows": "1",
+							"col-gap": "24px",
+							"row-gap": "16px",
+							"row-size": "48px",
+							"column-gap": "24px",
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "40px 16px 40px 16px"
+						}
+					},
+					"zindexes": ["zFVG1y", "footer-brand-name", "zW3Boc", "zZw0TI"],
+					"background": {
+						"color": "rgb(236, 239, 243)",
+						"current": "color"
+					},
+					"components": ["zFVG1y", "footer-brand-name", "zW3Boc", "zZw0TI"]
+				},
+				"z6bWkE": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 8661
+					},
+					"desktop": {
+						"minHeight": 6508
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["zy1Ko-"],
+					"background": {
+						"color": "rgb(255, 255, 255)",
+						"current": "color"
+					},
+					"components": ["zy1Ko-"],
+					"initialBlockId": "terms-and-conditions-block"
+				},
+				"zAAn8A": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 769
+					},
+					"desktop": {
+						"minHeight": 523
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["zfmiQ-", "contact-1-image-2"],
+					"background": {
+						"color": "#FFFFFF",
+						"current": "color"
+					},
+					"components": ["zfmiQ-", "contact-1-image-2"]
+				},
+				"zIGbcv": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 2132
+					},
+					"desktop": {
+						"minHeight": 2330
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["zx_yU-"],
+					"background": {
+						"color": "rgb(255, 255, 255)",
+						"current": "color"
+					},
+					"components": ["zx_yU-"],
+					"initialBlockId": "refund-policy-block"
+				},
+				"zPIrFL": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 3367
+					},
+					"desktop": {
+						"minHeight": 2541
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["ze6Uvn"],
+					"background": {
+						"color": "rgb(255, 255, 255)",
+						"current": "color"
+					},
+					"components": ["ze6Uvn"],
+					"initialBlockId": "privacy-policy-block"
+				},
+				"zmO5Uf": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 565.5
+					},
+					"desktop": {
+						"minHeight": 624.5
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["zuWqXi", "zv3s9C", "zevWGR", "zZMTCd", "zc24AJ", "z6k_A8", "zZZ-hO", "zviLNG"],
+					"background": {
+						"color": "#EBEADF",
+						"current": "color"
+					},
+					"components": ["zuWqXi", "zevWGR", "zv3s9C", "zZMTCd", "zc24AJ", "z6k_A8", "zZZ-hO", "zviLNG"]
+				},
+				"about-1": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 748
+					},
+					"desktop": {
+						"minHeight": 936
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["about-1-title", "about-1-description", "zzopH-", "about-1-image-1"],
+					"background": {
+						"color": "#243328",
+						"current": "color"
+					},
+					"components": ["about-1-title", "about-1-description", "zzopH-", "about-1-image-1"]
+				},
+				"contact": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 602
+					},
+					"desktop": {
+						"minHeight": 788
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["contact-title", "zzH1JW"],
+					"background": {
+						"color": "#FFFFFF",
+						"current": "color"
+					},
+					"components": ["contact-title", "zzH1JW"]
+				},
+				"section1": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 673
+					},
+					"desktop": {
+						"minHeight": 564
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["section1-image-1", "zcopHD", "section1-title", "section1-description"],
+					"background": {
+						"color": "#EBEADF",
+						"current": "color"
+					},
+					"components": ["section1-image-1", "zcopHD", "section1-title", "section1-description"]
+				},
+				"section2": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 629
+					},
+					"desktop": {
+						"minHeight": 588
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["section2-image-1", "zw33vg", "section2-title", "section2-description"],
+					"background": {
+						"color": "#FFFFFF",
+						"current": "color"
+					},
+					"components": ["section2-image-1", "zw33vg", "section2-title", "section2-description"]
+				},
+				"section3": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 677
+					},
+					"desktop": {
+						"minHeight": 588
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["section3-image-1", "zbYm7v", "section3-title", "section3-description"],
+					"background": {
+						"color": "#EBEADF",
+						"current": "color"
+					},
+					"components": ["section3-image-1", "zbYm7v", "section3-title", "section3-description"]
+				},
+				"contact-1": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 1394
+					},
+					"desktop": {
+						"minHeight": 1191
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["contact-1-title", "contact-1-subtitle", "z9cuBW", "contact-1-image-1", "zwJB2t", "zy7TBw", "zKDKw_", "zZ5jfw", "zoiAHZ", "z4D9Nx"],
+					"background": {
+						"color": "#243328",
+						"current": "color"
+					},
+					"components": ["contact-1-title", "contact-1-subtitle", "z9cuBW", "contact-1-image-1", "zwJB2t", "zy7TBw", "zKDKw_", "zZ5jfw", "zoiAHZ", "z4D9Nx"]
+				},
+				"principles": {
+					"type": "BlockLayout",
+					"mobile": {
+						"minHeight": 973
+					},
+					"desktop": {
+						"minHeight": 702
+					},
+					"settings": {
+						"styles": {
+							"block-padding": "16px 0 16px 0",
+							"m-block-padding": "16px"
+						}
+					},
+					"zindexes": ["zQIZXw", "zgzlXm", "zve1dV", "zF582K", "principles-item-description-1", "principles-item-title-3", "principles-item-title-2", "principles-item-title-1", "principles-item-description-2", "principles-item-description-3"],
+					"background": {
+						"color": "#FFFFFF",
+						"current": "color"
+					},
+					"components": ["zF582K", "principles-item-description-1", "principles-item-title-3", "principles-item-title-2", "principles-item-title-1", "principles-item-description-2", "principles-item-description-3", "zve1dV", "zgzlXm", "zQIZXw"]
+				}
+			},
+			"elements": {
+				"z4D9Nx": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 828,
+						"left": 0,
+						"width": 382,
+						"height": 17
+					},
+					"content": "<h6 style=\"color: #FFFFFF\"><strong>Address</strong></h6>",
+					"desktop": {
+						"top": 423,
+						"left": 103,
+						"width": 297,
+						"height": 31
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"m-text": "center",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "ztdggT"
+				},
+				"z6k_A8": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 368,
+						"left": 0,
+						"width": 185,
+						"height": 31
+					},
+					"content": "<h6 style=\"color: rgb(13, 26, 16)\">User Reviews</h6>",
+					"desktop": {
+						"top": 440,
+						"left": 515,
+						"width": 297,
+						"height": 31
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zgPUAu"
+				},
+				"z9cuBW": {
+					"type": "GridForm",
+					"formId": "Contact form",
+					"mobile": {
+						"top": 138,
+						"left": 0,
+						"width": 382,
+						"height": 481
+					},
+					"desktop": {
+						"top": 64,
+						"left": 618,
+						"width": 503,
+						"height": 541,
+						"inputTextSize": 16,
+						"labelTextSize": 16,
+						"submitButtonFontSize": 18
+					},
+					"settings": {
+						"theme": "light",
+						"schema": [{
+							"id": "firstName",
+							"svg": "align-left-short",
+							"name": "Name",
+							"type": "GridInput",
+							"fieldType": "short-answer",
+							"inputLabel": "Name",
+							"validation": [
+								["optional"]
+							],
+							"placeholder": "Your name",
+							"validation-messages": {
+								"required": "This field is required"
+							}
+						}, {
+							"id": "lastName",
+							"svg": "align-left-short",
+							"name": "Last name",
+							"type": "GridInput",
+							"fieldType": "short-answer",
+							"inputLabel": "Last name",
+							"validation": [
+								["optional"]
+							],
+							"placeholder": "Your last name",
+							"validation-messages": {
+								"required": "This field is required"
+							}
+						}, {
+							"id": "email",
+							"svg": "align-left-short",
+							"name": "Short answer email",
+							"type": "GridInput",
+							"fieldType": "short-answer",
+							"inputLabel": "Your email",
+							"validation": [
+								["bail"],
+								["email"],
+								["required"]
+							],
+							"placeholder": "Your email address",
+							"validationType": "email",
+							"validation-messages": {
+								"email": "Please enter a valid email address",
+								"required": "This field is required"
+							}
+						}, {
+							"id": "message",
+							"svg": "align-left",
+							"tag": "textarea",
+							"name": "Paragraph",
+							"type": "GridInput",
+							"inputLabel": "Message",
+							"validation": [
+								["required"]
+							],
+							"placeholder": "Enter your message",
+							"validation-messages": {
+								"required": "This field is required"
+							}
+						}],
+						"styles": {
+							"justify": "center",
+							"formSpacing": "22px 10px",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"successMessage": "Thank You!"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"inputFillColor": "#FFFFFF",
+					"inputTextColor": "#0D1A10",
+					"labelTextColor": "#FFFFFF",
+					"formBorderColor": "#0D1A10",
+					"innerBackground": {
+						"color": "#FFFFFF",
+						"image": "",
+						"current": ""
+					},
+					"initialElementId": "zzH1JW",
+					"inputBorderColor": "rgb(184, 192, 204)",
+					"inputBorderWidth": 1,
+					"submitButtonData": {
+						"type": "GridButton",
+						"content": "Submit",
+						"settings": {
+							"type": "primary",
+							"styles": {
+								"align": "center",
+								"justify": "center",
+								"position": "8/8/9/10"
+							},
+							"isFormButton": true
+						}
+					},
+					"inputBorderRadius": 4,
+					"inputFillColorHover": "#FFFFFF",
+					"inputTextColorHover": "#0D1A10",
+					"inputBorderColorHover": "rgb(184, 192, 204)",
+					"submitButtonFontColor": "#FFFFFF",
+					"submitButtonFontFamily": "Inter",
+					"submitButtonFontWeight": 700,
+					"submitButtonBorderColor": "#FFFFFF",
+					"submitButtonBorderWidth": 0,
+					"submitButtonBorderRadius": 4,
+					"submitButtonFontColorHover": "#FFFFFF",
+					"submitButtonBackgroundColor": "#2E994D",
+					"submitButtonBorderColorHover": "#FFFFFF",
+					"submitButtonBorderWidthHover": 0,
+					"submitButtonBackgroundColorHover": "#2E994D"
+				},
+				"zAXihj": {
+					"rel": "nofollow",
+					"href": "https://play.google.com/store/apps/details?id=com.DealKaro.android",
+					"type": "GridButton",
+					"mobile": {
+						"top": 131,
+						"left": 70.5,
+						"width": 241,
+						"height": 46
+					},
+					"target": "_blank",
+					"content": "Download DealKaro App Now",
+					"desktop": {
+						"top": 280,
+						"left": 404.5,
+						"width": 415,
+						"height": 60,
+						"fontSize": 24
+					},
+					"linkType": "external",
+					"settings": {
+						"type": "primary",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "element"
+					},
+					"fontColor": "rgb(47, 247, 231)",
+					"fontFamily": "Ubuntu",
+					"fontWeight": 700,
+					"borderColor": "rgb(73, 88, 103)",
+					"borderWidth": 0,
+					"borderRadius": 10,
+					"fontColorHover": "rgb(255, 255, 255)",
+					"backgroundColor": "rgb(17, 89, 37)",
+					"borderColorHover": "rgb(73, 88, 103)",
+					"backgroundColorHover": "rgb(34, 163, 55)"
+				},
+				"zF582K": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 40,
+						"left": 0,
+						"width": 382,
+						"height": 38
+					},
+					"content": "<h3 style=\"color: #0D1A10\">Our principles</h3>",
+					"desktop": {
+						"top": 80,
+						"left": 409,
+						"width": 400,
+						"height": 43
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zVFvRD"
+				},
+				"zFVG1y": {
+					"type": "GridSocialIcons",
+					"links": [{
+						"svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M24 12.0726C24 5.44354 18.629 0.0725708 12 0.0725708C5.37097 0.0725708 0 5.44354 0 12.0726C0 18.0619 4.38823 23.0264 10.125 23.9274V15.5414H7.07661V12.0726H10.125V9.4287C10.125 6.42144 11.9153 4.76031 14.6574 4.76031C15.9706 4.76031 17.3439 4.99451 17.3439 4.99451V7.94612H15.8303C14.34 7.94612 13.875 8.87128 13.875 9.82015V12.0726H17.2031L16.6708 15.5414H13.875V23.9274C19.6118 23.0264 24 18.0619 24 12.0726Z\" fill=\"currentColor\"/>\n</svg>\n",
+						"icon": "facebook",
+						"link": "https://www.facebook.com"
+					}, {
+						"svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0027 5.84808C8.59743 5.84808 5.85075 8.59477 5.85075 12C5.85075 15.4053 8.59743 18.1519 12.0027 18.1519C15.4079 18.1519 18.1546 15.4053 18.1546 12C18.1546 8.59477 15.4079 5.84808 12.0027 5.84808ZM12.0027 15.9996C9.80212 15.9996 8.00312 14.2059 8.00312 12C8.00312 9.7941 9.79677 8.00046 12.0027 8.00046C14.2086 8.00046 16.0022 9.7941 16.0022 12C16.0022 14.2059 14.2032 15.9996 12.0027 15.9996ZM19.8412 5.59644C19.8412 6.39421 19.1987 7.03135 18.4062 7.03135C17.6085 7.03135 16.9713 6.38885 16.9713 5.59644C16.9713 4.80402 17.6138 4.16153 18.4062 4.16153C19.1987 4.16153 19.8412 4.80402 19.8412 5.59644ZM23.9157 7.05277C23.8247 5.13063 23.3856 3.42801 21.9775 2.02522C20.5747 0.622429 18.8721 0.183388 16.9499 0.0870135C14.9689 -0.0254238 9.03112 -0.0254238 7.05008 0.0870135C5.1333 0.178034 3.43068 0.617075 2.02253 2.01986C0.614389 3.42265 0.180703 5.12527 0.0843279 7.04742C-0.0281093 9.02845 -0.0281093 14.9662 0.0843279 16.9472C0.175349 18.8694 0.614389 20.572 2.02253 21.9748C3.43068 23.3776 5.12794 23.8166 7.05008 23.913C9.03112 24.0254 14.9689 24.0254 16.9499 23.913C18.8721 23.822 20.5747 23.3829 21.9775 21.9748C23.3803 20.572 23.8193 18.8694 23.9157 16.9472C24.0281 14.9662 24.0281 9.03381 23.9157 7.05277ZM21.3564 19.0728C20.9388 20.1223 20.1303 20.9307 19.0755 21.3537C17.496 21.9802 13.7481 21.8356 12.0027 21.8356C10.2572 21.8356 6.50396 21.9748 4.92984 21.3537C3.88042 20.9361 3.07195 20.1276 2.64897 19.0728C2.02253 17.4934 2.16709 13.7455 2.16709 12C2.16709 10.2546 2.02789 6.50129 2.64897 4.92717C3.06659 3.87776 3.87507 3.06928 4.92984 2.6463C6.50931 2.01986 10.2572 2.16443 12.0027 2.16443C13.7481 2.16443 17.5014 2.02522 19.0755 2.6463C20.1249 3.06392 20.9334 3.8724 21.3564 4.92717C21.9828 6.50665 21.8383 10.2546 21.8383 12C21.8383 13.7455 21.9828 17.4987 21.3564 19.0728Z\" fill=\"currentColor\"/>\n</svg>\n",
+						"icon": "instagram",
+						"link": "https://www.instagram.com"
+					}, {
+						"svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21.5331 7.11165C21.5483 7.32484 21.5483 7.53807 21.5483 7.75126C21.5483 14.2538 16.5991 21.7462 7.55333 21.7462C4.7665 21.7462 2.17768 20.9391 0 19.5381C0.395955 19.5838 0.776628 19.599 1.18782 19.599C3.48728 19.599 5.60407 18.8224 7.29444 17.4975C5.13199 17.4518 3.31979 16.0356 2.69542 14.0863C3.00001 14.132 3.30456 14.1624 3.62439 14.1624C4.066 14.1624 4.50766 14.1015 4.9188 13.9949C2.66499 13.538 0.974582 11.5584 0.974582 9.1675V9.10661C1.62938 9.47209 2.39087 9.70052 3.19792 9.73094C1.87304 8.84767 1.00505 7.34007 1.00505 5.63447C1.00505 4.72078 1.24866 3.88321 1.67508 3.15224C4.09642 6.13702 7.73605 8.08623 11.8172 8.29946C11.7411 7.93398 11.6954 7.55331 11.6954 7.17259C11.6954 4.46189 13.8883 2.25378 16.6142 2.25378C18.0304 2.25378 19.3096 2.84769 20.2081 3.80709C21.3198 3.5939 22.3858 3.18271 23.33 2.61927C22.9644 3.76143 22.1878 4.72082 21.1675 5.32992C22.1574 5.22337 23.1168 4.9492 24 4.56853C23.3301 5.54311 22.4924 6.4111 21.5331 7.11165Z\" fill=\"currentColor\"/>\n</svg>\n",
+						"icon": "twitter",
+						"link": "https://twitter.com"
+					}],
+					"mobile": {
+						"top": 120,
+						"left": 0,
+						"width": 138,
+						"height": 24
+					},
+					"desktop": {
+						"top": 80,
+						"left": 1078,
+						"width": 146,
+						"height": 24
+					},
+					"settings": {
+						"styles": {
+							"align": "",
+							"justify": "center",
+							"icon-size": "24px",
+							"icon-color": "#0D1A10",
+							"icon-spacing": "space-between",
+							"icon-direction": "row",
+							"icon-color-hover": "rgb(25, 191, 64)",
+							"m-element-margin": "0 0 16px 0",
+							"space-between-icons": "20px"
+						},
+						"useBrandColors": false
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zcLY07"
+				},
+				"zKDKw_": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 861,
+						"left": 0,
+						"width": 382,
+						"height": 24
+					},
+					"content": "<p style=\"color: rgb(255, 255, 255)\" class=\"body\">West Bengal , Birbhum, 731224</p>",
+					"desktop": {
+						"top": 454,
+						"left": 103,
+						"width": 194,
+						"height": 54
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"m-text": "center",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "ztdggT"
+				},
+				"zQIZXw": {
+					"svg": "<svg preserveAspectRatio=\"none\" viewBox=\"0 0 80 80\" fill=\"none\" stroke=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0 0H80V80H0V0Z\" /></svg>",
+					"type": "GridShape",
+					"color": "#EBEADF",
+					"shape": "rectangle",
+					"mobile": {
+						"top": 650,
+						"left": 0,
+						"width": 382,
+						"height": 240
+					},
+					"desktop": {
+						"top": 184,
+						"left": 824,
+						"width": 400,
+						"height": 310
+					},
+					"settings": {
+						"styles": {}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zB1M9g"
+				},
+				"zW3Boc": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 160,
+						"left": 0,
+						"width": 382,
+						"height": 319
+					},
+					"desktop": {
+						"top": 32,
+						"left": 24,
+						"width": 91,
+						"height": 88
+					},
+					"settings": {
+						"alt": "",
+						"path": "dealkaro_adroid12_logo-meP3qNvyzlSlLl9z.png",
+						"origin": "assets",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"fullResolutionWidth": 1200,
+					"fullResolutionHeight": 1088
+				},
+				"zZ5jfw": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 680,
+						"left": 0,
+						"width": 382,
+						"height": 24
+					},
+					"content": "<p style=\"color: rgb(255, 255, 255)\" class=\"body\">support@dealkaroshop.com</p>",
+					"desktop": {
+						"top": 294,
+						"left": 103,
+						"width": 297,
+						"height": 27
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"m-text": "center",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "ztdggT"
+				},
+				"zZMTCd": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 42,
+						"left": 0,
+						"width": 382,
+						"height": 79
+					},
+					"content": "<h3 style=\"color: rgb(13, 26, 16)\">Download Our App DealKaro From Playstore</h3>",
+					"desktop": {
+						"top": 80,
+						"left": 103,
+						"width": 297,
+						"height": 133
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zTe1bs"
+				},
+				"zZZ-hO": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 413,
+						"left": 0,
+						"width": 185,
+						"height": 21
+					},
+					"content": "<p style=\"color: rgb(13, 26, 16)\" class=\"body-small\">Authentic</p>",
+					"desktop": {
+						"top": 471,
+						"left": 515,
+						"width": 297,
+						"height": 21
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zkcTlS"
+				},
+				"zZw0TI": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 504,
+						"left": 0,
+						"width": 382,
+						"height": 22
+					},
+					"content": "<h3 style=\"color: rgb(245, 233, 233); --lineHeightMobile: 1.35; --lineHeightDesktop: 1.3; --fontSizeMobile: 16px; --fontSizeDesktop: 22px\"><span style=\"text-transform: none; letter-spacing: normal; font-family: Ubuntu; font-weight: 400\">Copyright © 2023 DealKaro. All rights reserved</span></h3>",
+					"desktop": {
+						"top": 200,
+						"left": 0,
+						"width": 1224,
+						"height": 29
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"backgroundColor": "rgb(12, 13, 12)"
+				},
+				"zbYm7v": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 322.5,
+						"left": 0,
+						"width": 382,
+						"height": 21
+					},
+					"content": "<h4 style=\"color: #0D1A10\">And let's not forget</h4>",
+					"desktop": {
+						"top": 120,
+						"left": 721,
+						"width": 297,
+						"height": 18
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zcopHD"
+				},
+				"zc24AJ": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 413,
+						"left": 197,
+						"width": 185,
+						"height": 21
+					},
+					"content": "<p style=\"color: rgb(13, 26, 16)\" class=\"body-small\">Shopping</p>",
+					"desktop": {
+						"top": 471,
+						"left": 824,
+						"width": 297,
+						"height": 21
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zgcmg2"
+				},
+				"zcopHD": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 320,
+						"left": 0,
+						"width": 382,
+						"height": 18
+					},
+					"content": "<h4 style=\"color: #0D1A10\">First of all</h4>",
+					"desktop": {
+						"top": 96,
+						"left": 721,
+						"width": 297,
+						"height": 18
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"ze6Uvn": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 80,
+						"left": 0,
+						"width": 382,
+						"height": 3278
+					},
+					"content": "<h3 style=\"color: rgb(26, 26, 26); margin-bottom: 40px\">Privacy Policy</h3><p style=\"margin-bottom: 16px\" class=\"body\">DealKaroshop.com website is owned by DEALKARO, which is a data controller of your personal data.</p><p style=\"margin-bottom: 16px\" class=\"body\">We have adopted this Privacy Policy, which determines how we are processing the information collected by DealKaroshop.com, which also provides the reasons why we must collect certain personal data about you. Therefore, you must read this Privacy Policy before using DealKaroshop.com website.</p><p style=\"margin-bottom: 32px\" class=\"body\">We take care of your personal data and undertake to guarantee its confidentiality and security.</p><h6 style=\"color: rgb(10, 10, 10); margin-bottom: 16px\">Privacy Policy of DealKaro</h6><p style=\"color: rgb(10, 10, 10)\" class=\"body\">This Privacy Policy describes how DealKaro collects, uses, and protects the personal information of users who access our website and/or use our mobile application (\"App\"). We are committed to maintaining the privacy and confidentiality of your information. By using DealKaro, you consent to the practices described in this Privacy Policy.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">1. Information We Collect</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">1.1 Personal Information: When you sign up for an account on DealKaro, we collect personal information such as your name, email address, phone number, address, bank account details, IMEI, phone model, and device ID. This information is necessary for account creation, verification, and transaction processing. We may collect other relevant information as well, not limited to the mentioned categories.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">1.2 Usage Information: We collect information about your interactions with DealKaro, such as the pages you visit, the products you view, and the actions you take on the platform. This helps us improve our services and provide a personalized experience.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">1.3 Device Information: We may collect device-specific information, such as your devie type, operating system, and unique device identifiers. This helps us optimize our services for your device and provide relevant updates and notifications.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">1.4 Location Information: With your consent, we may collect and process information about your precise or approximate location. This information enables us to offer location-based services and improve the relevance of our recommendations.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">2. Use of Information</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">2.1 Account Management: We use the personal information provided during account creation to manage your DealKaro account, including authentication, verification, and account-related communications.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">2.2 Transaction Processing: We collect and process your personal information to facilitate and process transactions on DealKaro. This includes verifying payment details, holding funds in escrow, and transferring funds between buyers and sellers.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">2.3 Communication: We may use your contact information to communicate with you about your account, transactions, and updates to our services. We may also send you promotional and marketing communications if you have opted-in to receive them. You can opt-out of these communications at any time.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">2.4 Improving Services: We analyze user data to improve the functionality, performance, and security of DealKaro. This includes monitoring and analyzing user behavior, conducting research and analytics, and enhancing user experience.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">2.5 Legal Compliance: We may use and disclose your information to comply with applicable laws, regulations, legal processes, or enforceable governmental requests. We may also disclose information to protect the rights, property, or safety of DealKaro, its users, or others, if required by law or in response to a valid legal request.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">3. Data Security</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">3.1 We employ appropriate technical and organizational measures to protect your personal information from unauthorized access, loss, misuse, or alteration. However, no data transmission over the internet or electronic storage system is completely secure. Therefore, we cannot guarantee absolute security of your information.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">4. Third-Party Services</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">4.1 DealKaro may integrate with third-party services, such as payment gateways, for transaction processing. These third-party services have their own privacy policies, and your interactions with them are subject to their terms and conditions.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">4.2 We may also display third-party advertisements on our platform. These advertisements may collect information about your interactions with them. Please review the privacy policies of these third parties for more information.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">5. User Control and Rights</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">5.1 Account Closure: You may have the option to close your DealKaro account. Closing your account will result in the deletion of your personal information, subject to any legal obligations or legitimate business interests.</p><p style=\"color: rgb(10, 10, 10)\" class=\"body\">5.2 Access and Correction: You have the right to access and update your personal information on DealKaro. You can do this by logging into your account and</p><h6 style=\"margin-bottom: 16px\">Contact information:</h6><p class=\"body\">If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to <a target=\"_blank\" href=\"mailto:support@DealKaroshop.com\">support@DealKaroshop.com</a>.</p>",
+					"desktop": {
+						"top": 24,
+						"left": 206,
+						"width": 812,
+						"height": 2503
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "privacy-policy"
+				},
+				"zevWGR": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 369,
+						"left": 197,
+						"width": 185,
+						"height": 31
+					},
+					"content": "<h6 style=\"color: rgb(13, 26, 16)\">Market Place</h6>",
+					"desktop": {
+						"top": 434,
+						"left": 824,
+						"width": 297,
+						"height": 30
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zYbirv"
+				},
+				"zfmiQ-": {
+					"type": "GridMap",
+					"mobile": {
+						"top": 40,
+						"left": 0,
+						"width": 382,
+						"height": 344
+					},
+					"desktop": {
+						"top": 80,
+						"left": 618,
+						"width": 503,
+						"height": 360
+					},
+					"settings": {
+						"src": "https://maps.google.com/maps?q=rampurhat%20,%20Birbhum%20,%20731224&t=m&z=13&ie=UTF8&output=embed",
+						"styles": {
+							"align": "center",
+							"justify": "center"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "element"
+					},
+					"initialElementId": "zzxedy"
+				},
+				"zgzlXm": {
+					"svg": "<svg preserveAspectRatio=\"none\" viewBox=\"0 0 80 80\" fill=\"none\" stroke=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0 0H80V80H0V0Z\" /></svg>",
+					"type": "GridShape",
+					"color": "#EBEADF",
+					"shape": "rectangle",
+					"mobile": {
+						"top": 384,
+						"left": 0,
+						"width": 382,
+						"height": 240
+					},
+					"desktop": {
+						"top": 184,
+						"left": 412,
+						"width": 400,
+						"height": 310
+					},
+					"settings": {
+						"styles": {}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zO_h4d"
+				},
+				"zoiAHZ": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 765,
+						"left": 0,
+						"width": 382,
+						"height": 31
+					},
+					"content": "<h6 style=\"color: rgb(255, 255, 255)\">9775806085</h6>",
+					"desktop": {
+						"top": 374,
+						"left": 103,
+						"width": 297,
+						"height": 31
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"m-text": "center",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "ztdggT"
+				},
+				"zuWqXi": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 161,
+						"left": 0,
+						"width": 185,
+						"height": 200
+					},
+					"desktop": {
+						"top": 24,
+						"left": 515,
+						"width": 297,
+						"height": 520
+					},
+					"settings": {
+						"alt": "",
+						"path": "3b845969-3ccb-481a-aa5f-3b2b37e3b4d9-YNqXQ87pOoTX0VjQ.jpg",
+						"origin": "assets",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zxm9CQ",
+					"fullResolutionWidth": 717,
+					"fullResolutionHeight": 1600
+				},
+				"zv3s9C": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 161,
+						"left": 197,
+						"width": 185,
+						"height": 200
+					},
+					"desktop": {
+						"top": 24,
+						"left": 824,
+						"width": 297,
+						"height": 520
+					},
+					"settings": {
+						"alt": "",
+						"path": "55e993a5-b6f7-4610-91c5-a0414f2dcc8c-Yan2EjxZ17F3EDQB.jpg",
+						"origin": "assets",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zeLthO",
+					"fullResolutionWidth": 717,
+					"fullResolutionHeight": 1600
+				},
+				"zve1dV": {
+					"svg": "<svg preserveAspectRatio=\"none\" viewBox=\"0 0 80 80\" fill=\"none\" stroke=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0 0H80V80H0V0Z\" /></svg>",
+					"type": "GridShape",
+					"color": "#EBEADF",
+					"shape": "rectangle",
+					"mobile": {
+						"top": 120,
+						"left": 0,
+						"width": 382,
+						"height": 240
+					},
+					"desktop": {
+						"top": 184,
+						"left": 18,
+						"width": 382,
+						"height": 310
+					},
+					"settings": {
+						"styles": {}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zAK5I8"
+				},
+				"zviLNG": {
+					"rel": "nofollow",
+					"href": "https://play.google.com/store/apps/details?id=com.DealKaro.android",
+					"type": "GridButton",
+					"mobile": {
+						"top": 464,
+						"left": 126,
+						"width": 130,
+						"height": 50
+					},
+					"target": "_blank",
+					"content": "Download",
+					"desktop": {
+						"top": 257,
+						"left": 153,
+						"width": 130,
+						"height": 54
+					},
+					"linkType": "external",
+					"settings": {
+						"type": "primary",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"fontColor": "rgb(255, 255, 255)",
+					"borderColor": "rgb(73, 88, 103)",
+					"borderRadius": 4,
+					"fontColorHover": "rgb(255, 255, 255)",
+					"backgroundColor": "rgb(240, 15, 34)",
+					"borderColorHover": "rgb(73, 88, 103)",
+					"backgroundColorHover": "rgb(48, 63, 78)"
+				},
+				"zw33vg": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 272,
+						"left": 0,
+						"width": 382,
+						"height": 21
+					},
+					"content": "<h4 style=\"color: #0D1A10\">Not to mention</h4>",
+					"desktop": {
+						"top": 120,
+						"left": 0,
+						"width": 297,
+						"height": 18
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zcopHD"
+				},
+				"zwJB2t": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 649,
+						"left": 0,
+						"width": 382,
+						"height": 17
+					},
+					"content": "<h6 style=\"color: #FFFFFF\">Email</h6>",
+					"desktop": {
+						"top": 263,
+						"left": 103,
+						"width": 297,
+						"height": 31
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"m-text": "center",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "ztdggT"
+				},
+				"zx_yU-": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 56,
+						"left": 0,
+						"width": 382,
+						"height": 2727
+					},
+					"content": "<h3 style=\"color: rgb(26, 26, 26); margin-bottom: 40px\">Returns &amp; Refunds policy</h3><p style=\"margin-bottom: 16px\" class=\"body\"><span style=\"color: rgb(3, 2, 2)\">Thank you for shopping at DealKaro</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">Refund Policy of DealKaro</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">This Refund Policy outlines the guidelines for refunds on DealKaro, taking into consideration the sale of our own products, premium subscriptions, and products sold by third-party sellers. Please read this policy carefully before making any purchases or engaging in transactions on our platform.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">1. Refund Eligibility for Third-Party Seller Products:</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- Buyers who purchase products from third-party sellers on DealKaro have the option to dispute for a refund under certain circumstances.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- To initiate a refund request, the buyer must pay a refund processing fee of 10% of the product price, up to a maximum of 100 units of the respective currency.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- The refund processing fee serves as a deterrent against fraudulent refund claims and ensures that only genuine refund requests are raised.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- The 10% refund processing fee is 100% refundable if the buyer's claim is proven genuine and the buyer is not attempting to scam or deceive DealKaro.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">2. Refund Resolution and Decision:</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- All refund requests and disputes will be handled by the DealKaro customer service team and management.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- DealKaro holds the final decision-making authority regarding refund resolutions, and both the buyer and the seller must abide by the decision made by DealKaro.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- DealKaro reserves the right to refund the buyer's payment to the buyer or pay the seller for the product based on the outcome of the dispute resolution process.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">3. Refunds for DealKaro's Own Products:</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- Refunds for digital or physical products sold directly by DealKaro may be available under certain circumstances and at the sole discretion of DealKaro.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- DealKaro reserves the right to determine whether a refund will be provided for its own products.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- Refunds for premium services, however, are not available and all sales of premium subscriptions are final and non-refundable.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">4. Refunds for Digital and Physical Products:</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- Refunds for digital products or goods, including but not limited to software, e-books, or digital downloads, may be considered if the product was not delivered as described or if there are technical errors directly caused by DealKaro.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- Refunds for physical products will be considered if the product is not delivered to the buyer within the specified time frame or if there are technical errors directly caused by DealKaro that prevent the delivery of the product.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">5. Importance of Refund Processing Fee:</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- The refund processing fee of 10% is charged to discourage frivolous refund requests and protect the integrity of the refund system.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- By charging a refund processing fee, we can focus our efforts on reviewing and resolving genuine refund claims promptly, ensuring a better experience for all users.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">- If a refund request is found to be fraudulent or an attempt to scam DealKaro or the seller, the 10% refund processing fee will not be refunded, and appropriate actions, including account suspension or banning, may be taken.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">Please note that this refund policy is subject to change at any time without prior notice. It is the responsibility of all users to review and comply with the most recent version of the policy.</span></p><p class=\"body\"><span style=\"color: rgb(3, 2, 2)\">By using DealKaro and engaging in transactions on our platform, you agree to abide by this refund policy and acknowledge that the decisions made by DealKaro's customer service team and management regarding refund disputes are final. We are committed to building trust and creating a safe environment by distancing ourselves from scammers and fostering genuine transactions.</span></p><h6>Contact Us</h6><p class=\"body\">If you have any questions about our Returns and Refunds Policy, please contact us by e-mail <a target=\"_blank\" href=\"mailto:support@dealKaroshop.com\">support@dealKaroshop.com</a></p>",
+					"desktop": {
+						"top": 80,
+						"left": 206,
+						"width": 812,
+						"height": 2231
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "refund-policy"
+				},
+				"zy1Ko-": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 80,
+						"left": 0,
+						"width": 382,
+						"height": 8581
+					},
+					"content": "<h3 style=\"color: rgb(26, 26, 26); margin-bottom: 40px\">Terms and Conditions</h3><p style=\"margin-bottom: 16px\" class=\"body\">Welcome to DealKaro!</p><p style=\"margin-bottom: 16px\" class=\"body\">These terms and conditions outline the rules and regulations for the use of DEALKARO's Website &amp; App, located at <a target=\"_blank\" href=\"https://dealkaroshop.com\">https://dealkaroshop.com</a> And in Playstore Or In Internet.</p><p style=\"margin-bottom: 32px\" class=\"body\">By accessing this website or App, we assume you accept these terms and conditions. Do not continue to use DealKaro if you do not agree to take all of the terms and conditions stated on this page.</p><h6>Cookies:</h6><p style=\"margin-bottom: 16px\" class=\"body\">The website uses cookies to help personalize your online experience. By accessing DealKaro, you agreed to use the required cookies.</p><p style=\"margin-bottom: 16px\" class=\"body\">A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie to you.</p><p class=\"body\">We may use cookies to collect, store, and track information for statistical or marketing purposes to operate our website. You have the ability to accept or decline optional Cookies. There are some required Cookies that are necessary for the operation of our website. These cookies do not require your consent as they always work. Please keep in mind that by accepting required Cookies, you also accept third-party Cookies, which might be used via third-party provided services if you use such services on our website, for example, a video display window provided by third parties and integrated into our website.</p><h6 style=\"margin-bottom: 16px\">License:</h6><p style=\"margin-bottom: 16px\" class=\"body\">Unless otherwise stated, DEALKARO and/or its licensors own the intellectual property rights for all material on DealKaro. All intellectual property rights are reserved. You may access this from DealKaro for your own personal use subjected to restrictions set in these terms and conditions.</p><p style=\"margin-bottom: 16px\" class=\"body\">You must not:</p><ul><li><p style=\"margin-bottom: 8px\" class=\"body\">Copy or republish material from DealKaro</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Sell, rent, or sub-license material from DealKaro</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Reproduce, duplicate or copy material from DealKaro</p></li><li><p style=\"margin-bottom: 16px\" class=\"body\">Redistribute content from DealKaro</p></li></ul><p style=\"margin-bottom: 16px\" class=\"body\">This Agreement shall begin on the date hereof.</p><p style=\"margin-bottom: 16px\" class=\"body\">Parts of this website offer users an opportunity to post and exchange opinions and information in certain areas of the website. DEALKARO does not filter, edit, publish or review Comments before their presence on the website. Comments do not reflect the views and opinions of DEALKARO, its agents, and/or affiliates. Comments reflect the views and opinions of the person who posts their views and opinions. To the extent permitted by applicable laws, DEALKARO shall not be liable for the Comments or any liability, damages, or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p><p style=\"margin-bottom: 16px\" class=\"body\">DEALKARO reserves the right to monitor all Comments and remove any Comments that can be considered inappropriate, offensive, or causes breach of these Terms and Conditions.</p><p style=\"margin-bottom: 16px\" class=\"body\">You warrant and represent that:</p><ul><li><p style=\"margin-bottom: 8px\" class=\"body\">You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">The Comments do not invade any intellectual property right, including without limitation copyright, patent, or trademark of any third party;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">The Comments do not contain any defamatory, libelous, offensive, indecent, or otherwise unlawful material, which is an invasion of privacy.</p></li><li><p style=\"margin-bottom: 16px\" class=\"body\">The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</p></li></ul><p style=\"margin-bottom: 32px\" class=\"body\">You hereby grant DEALKARO a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats, or media.</p><p style=\"margin-bottom: 32px\" class=\"body\"></p><h6 style=\"margin-bottom: 15px\">Terms and Conditions Of DealKaro App and Website :</h6><p style=\"color: rgb(5, 5, 5)\" class=\"body\">Welcome to DealKaro, a platform that combines e-commerce services with an escrow system. By signing up and using our app, you agree to the following terms and conditions. Please read them carefully before proceeding.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">1. Account Creation and Use</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">1.1 Eligibility: To use DealKaro, you must be at least 18 years old or the legal age of majority in your jurisdiction. By creating an account, you confirm that you meet these requirements.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">1.2 Account Information: You are responsible for providing accurate and complete information during the account creation process. You agree to keep your account information updated and secure.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">1.3 Account Security: You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. DealKaro cannot be held liable for any unauthorized access to your account.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">2. E-commerce Services</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">2.1 Product Listing and Sales: As a seller on DealKaro, you can list your products for sale on our platform. By listing a product, you agree to comply with all applicable laws and regulations. You retain full responsibility for the products you sell, including quality, authenticity, and compliance with legal requirements.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">2.2 Prohibited Items: Sellers are strictly prohibited from adding or selling any illegal products, such as drugs, alcohol, or pirated goods, on DealKaro. If DealKaro identifies or is made aware of any illegal items, we reserve the right to ban, cancel, or take legal action against the seller. DealKaro does not promote or support the sale of illegal products.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">2.3 User Responsibility: DealKaro is not responsible for any illegal items sold by sellers if we fail to ban or notice their presence on the platform. Sellers are solely responsible for the legality of their products and comply with all relevant laws.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">2.4 User Conduct: DealKaro reserves the right to ban or take action against users who engage in any illegal activities or violate these terms and conditions. Users are prohibited from promoting or engaging in any illegal actions on the platform.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">3. Data Collection and Privacy</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">3.1 User Data: DealKaro collects user data for authentication, verification, and other necessary purposes. This data may include, but is not limited to, phone IMEI, location, phone number, email address, name, address, bank account details, and other relevant information.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">3.2 Privacy Policy: By accepting the terms and conditions, you also agree to the privacy policy of DealKaro, which governs the collection, use, and protection of user data. Please refer to our privacy policy for more information.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">3.3 Marketing and Advertising: DealKaro reserves the right to use user information and data for marketing, advertising, and strategic purposes. This may include sending promotional emails, personalized recommendations, or displaying targeted ads.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">4. Tax and GST</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">4.1 Seller's Responsibility: Sellers on DealKaro are responsible for paying their own GST (Goods and Services Tax) or any other applicable taxes. DealKaro does not collect or remit GST on behalf of sellers. Sellers must comply with the tax regulations applicable to their sales.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">5. Limitation of Liability</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">5.1 Use of DealKaro is at your own risk. DealKaro is not responsible for any losses, damages, or liabilities arising from your use of the platform or any transactions conducted through it.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">5.2 DealKaro does not guarantee the accuracy, completeness, or reliability of any product listings or other content on the platform. Users are advised to exercise their own judgment and conduct due diligence before making any purchases or sales.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">6. Modifications and Termination</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">6.1 DealKaro reserves the right to modify or terminate the platform, its services, or these terms</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\"> and conditions at any time without prior notice.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">6.2 Users may terminate their account with DealKaro at any time by following the account closure process provided on the platform.</p><p style=\"color: rgb(5, 5, 5)\" class=\"body\">By signing up and using DealKaro, you acknowledge that you have read, understood, and agreed to be bound by these terms and conditions. Your agreement to these terms and conditions is deemed to occur automatically upon signing up for DealKaro.</p><h6 style=\"margin-bottom: 15px\">Hyperlinking to our Content:</h6><p style=\"margin-bottom: 16px\" class=\"body\">The following organizations may link to our Website without prior written approval:</p><ul><li><p style=\"margin-bottom: 8px\" class=\"body\">Government agencies;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Search engines;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">News organizations;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and</p></li><li><p style=\"margin-bottom: 16px\" class=\"body\">System-wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.</p></li></ul><p style=\"margin-bottom: 16px\" class=\"body\">These organizations may link to our home page, to publications, or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement, or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party's site.</p><p style=\"margin-bottom: 16px\" class=\"body\">We may consider and approve other link requests from the following types of organizations:</p><ul><li><p style=\"margin-bottom: 8px\" class=\"body\">Commonly-known consumer and/or business information sources;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\"><a target=\"_blank\" href=\"http://dot.com\">Dot.com</a> community sites;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Associations or other groups representing charities;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Online directory distributors;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Internet portals;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Accounting, law, and consulting firms; and</p></li><li><p style=\"margin-bottom: 16px\" class=\"body\">Educational institutions and trade associations.</p></li></ul><p style=\"margin-bottom: 16px\" class=\"body\">We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of DEALKARO; and (d) the link is in the context of general resource information.</p><p style=\"margin-bottom: 16px\" class=\"body\">These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement, or approval of the linking party and its products or services; and (c) fits within the context of the linking party's site.</p><p style=\"margin-bottom: 16px\" class=\"body\">If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to DEALKARO. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.</p><p style=\"margin-bottom: 16px\" class=\"body\">Approved organizations may hyperlink to our Website as follows:</p><ul><li><p style=\"margin-bottom: 8px\" class=\"body\">By use of our corporate name; or</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">By use of the uniform resource locator being linked to; or</p></li><li><p style=\"margin-bottom: 16px\" class=\"body\">Using any other description of our Website being linked to that makes sense within the context and format of content on the linking party's site.</p></li></ul><p style=\"margin-bottom: 32px\" class=\"body\">No use of DEALKARO's logo or other artwork will be allowed for linking absent a trademark license agreement.</p><h6>Content Liability:</h6><p style=\"margin-bottom: 32px\" class=\"body\">We shall not be held responsible for any content that appears on your Website. You agree to protect and defend us against all claims that are raised on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene, or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.</p><h6>Reservation of Rights:</h6><p style=\"margin-bottom: 32px\" class=\"body\">We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amend these terms and conditions and its linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.</p><h6 style=\"margin-bottom: 16px\">Removal of links from our website:</h6><p style=\"margin-bottom: 16px\" class=\"body\">If you find any link on our Website that is offensive for any reason, you are free to contact and inform us at any moment. We will consider requests to remove links, but we are not obligated to or so or to respond to you directly.</p><p style=\"margin-bottom: 32px\" class=\"body\">We do not ensure that the information on this website is correct. We do not warrant its completeness or accuracy, nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.</p><h6 style=\"margin-bottom: 16px\">Disclaimer:</h6><p style=\"margin-bottom: 16px\" class=\"body\">To the maximum extent permitted by applicable law, we exclude all representations, warranties, and conditions relating to our website and the use of this website. Nothing in this disclaimer will:</p><ul><li><p style=\"margin-bottom: 8px\" class=\"body\">Limit or exclude our or your liability for death or personal injury;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Limit or exclude our or your liability for fraud or fraudulent misrepresentation;</p></li><li><p style=\"margin-bottom: 8px\" class=\"body\">Limit any of our or your liabilities in any way that is not permitted under applicable law; or</p></li><li><p style=\"margin-bottom: 16px\" class=\"body\">Exclude any of our or your liabilities that may not be excluded under applicable law.</p></li></ul><p style=\"margin-bottom: 16px\" class=\"body\">The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort, and for breach of statutory duty.</p><p class=\"body\">As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>",
+					"desktop": {
+						"top": 80,
+						"left": 206,
+						"width": 812,
+						"height": 6391
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "terms-and-conditions"
+				},
+				"zy7TBw": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 720,
+						"left": 0,
+						"width": 382,
+						"height": 17
+					},
+					"content": "<h6 style=\"color: #FFFFFF\">Phone</h6>",
+					"desktop": {
+						"top": 343,
+						"left": 103,
+						"width": 297,
+						"height": 31
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"m-text": "center",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "ztdggT"
+				},
+				"zyqhd-": {
+					"rel": "nofollow",
+					"href": "https://play.google.com/store/apps/details?id=com.DealKaro.android",
+					"type": "GridButton",
+					"mobile": {
+						"top": 144,
+						"left": 106.5,
+						"width": 169,
+						"height": 50
+					},
+					"target": "_blank",
+					"content": "Download DealKaro",
+					"desktop": {
+						"top": 200,
+						"left": 498,
+						"width": 228,
+						"height": 58,
+						"fontSize": 22
+					},
+					"linkType": "external",
+					"settings": {
+						"type": "primary",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "scale",
+						"type": "element"
+					},
+					"fontColor": "rgb(255, 255, 255)",
+					"fontFamily": "Ubuntu",
+					"fontWeight": 400,
+					"borderColor": "rgb(73, 88, 103)",
+					"borderRadius": 6,
+					"fontColorHover": "rgb(255, 255, 255)",
+					"backgroundColor": "rgb(34, 90, 145)",
+					"borderColorHover": "rgb(73, 88, 103)",
+					"backgroundColorHover": "rgb(20, 122, 224)"
+				},
+				"zzH1JW": {
+					"type": "GridForm",
+					"formId": "Contact form",
+					"mobile": {
+						"top": 76,
+						"left": 0,
+						"width": 382,
+						"height": 481
+					},
+					"desktop": {
+						"top": 200,
+						"left": 412,
+						"width": 400,
+						"height": 501,
+						"inputTextSize": 16,
+						"labelTextSize": 16,
+						"submitButtonFontSize": 18
+					},
+					"settings": {
+						"theme": "light",
+						"schema": [{
+							"id": "firstName",
+							"svg": "align-left-short",
+							"name": "Name",
+							"type": "GridInput",
+							"fieldType": "short-answer",
+							"inputLabel": "Name",
+							"validation": [
+								["optional"]
+							],
+							"placeholder": "Your name",
+							"validation-messages": {
+								"required": "This field is required"
+							}
+						}, {
+							"id": "lastName",
+							"svg": "align-left-short",
+							"name": "Last name",
+							"type": "GridInput",
+							"fieldType": "short-answer",
+							"inputLabel": "Last name",
+							"validation": [
+								["optional"]
+							],
+							"placeholder": "Your last name",
+							"validation-messages": {
+								"required": "This field is required"
+							}
+						}, {
+							"id": "email",
+							"svg": "align-left-short",
+							"name": "Short answer email",
+							"type": "GridInput",
+							"fieldType": "short-answer",
+							"inputLabel": "Your email",
+							"validation": [
+								["bail"],
+								["email"],
+								["required"]
+							],
+							"placeholder": "Your email address",
+							"validationType": "email",
+							"validation-messages": {
+								"email": "Please enter a valid email address",
+								"required": "This field is required"
+							}
+						}, {
+							"id": "message",
+							"svg": "align-left",
+							"tag": "textarea",
+							"name": "Paragraph",
+							"type": "GridInput",
+							"inputLabel": "Message",
+							"validation": [
+								["required"]
+							],
+							"placeholder": "Enter your message",
+							"validation-messages": {
+								"required": "This field is required"
+							}
+						}],
+						"styles": {
+							"justify": "center",
+							"formSpacing": "22px 10px",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"submitAction": {
+							"id": "showMessage",
+							"title": "Show message"
+						},
+						"successMessage": "Thank You We Will In Touch Soon ! "
+					},
+					"animation": {
+						"name": "scale",
+						"type": "element"
+					},
+					"inputFillColor": "#FFFFFF",
+					"inputTextColor": "rgb(128, 138, 153)",
+					"labelTextColor": "#0D1A10",
+					"formBorderColor": "#1d1e20",
+					"innerBackground": {
+						"color": "#FFFFFF",
+						"image": "",
+						"current": ""
+					},
+					"inputBorderColor": "#B8C0CC",
+					"inputBorderWidth": 1,
+					"submitButtonData": {
+						"type": "GridButton",
+						"content": "Submit",
+						"settings": {
+							"type": "primary",
+							"styles": {
+								"align": "center",
+								"justify": "center",
+								"position": "8/8/9/10"
+							},
+							"isFormButton": true
+						}
+					},
+					"inputBorderRadius": 4,
+					"inputFillColorHover": "rgb(148, 224, 170)",
+					"inputTextColorHover": "rgb(128, 138, 153)",
+					"inputBorderColorHover": "rgb(128, 138, 153)",
+					"submitButtonFontColor": "#FFFFFF",
+					"submitButtonFontFamily": "Inter",
+					"submitButtonFontWeight": 700,
+					"submitButtonBorderColor": "rgba(0, 0, 0, 0)",
+					"submitButtonBorderWidth": 0,
+					"submitButtonBorderRadius": 4,
+					"submitButtonFontColorHover": "#FFFFFF",
+					"submitButtonBackgroundColor": "#2E994D",
+					"submitButtonBorderColorHover": "rgba(0, 0, 0, 0)",
+					"submitButtonBorderWidthHover": 0,
+					"submitButtonBackgroundColorHover": "#2E994D"
+				},
+				"zzopH-": {
+					"type": "GridButton",
+					"mobile": {
+						"top": 304,
+						"left": 0,
+						"width": 130,
+						"height": 50
+					},
+					"content": "Contact us",
+					"desktop": {
+						"top": 264,
+						"left": 412,
+						"width": 142,
+						"height": 56
+					},
+					"linkType": "internal",
+					"settings": {
+						"type": "primary",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"fontColor": "#FFFFFF",
+					"fontFamily": "Inter",
+					"fontWeight": 700,
+					"borderColor": "#2E994D",
+					"borderWidth": 1,
+					"borderRadius": 5,
+					"linkedPageId": "page-contacts",
+					"fontColorHover": "#FFFFFF",
+					"backgroundColor": "#2E994D",
+					"borderColorHover": "#EBEADF",
+					"borderWidthHover": 0,
+					"initialElementId": "zo9wuV",
+					"backgroundColorHover": "#243328"
+				},
+				"hero-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 24,
+						"left": 0,
+						"width": 382,
+						"height": 76
+					},
+					"content": "<h1 style=\"color: rgb(255, 255, 255); --lineHeightDesktop: 1.2\">DealKaro - India's No.1 Escrow Platform</h1>",
+					"desktop": {
+						"top": 80,
+						"left": 103,
+						"width": 1018,
+						"height": 144
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"about-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 24,
+						"left": 0,
+						"width": 382,
+						"height": 40
+					},
+					"content": "<h3 style=\"color: #0D1A10\">About DealKaro</h3>",
+					"desktop": {
+						"top": 80,
+						"left": 0,
+						"width": 400,
+						"height": 44
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"hero-image-1": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 160,
+						"left": 0,
+						"width": 382,
+						"height": 296
+					},
+					"desktop": {
+						"top": 330,
+						"crop": {
+							"top": 52.359882005899706,
+							"left": 100,
+							"scale": "1"
+						},
+						"left": 225.5,
+						"width": 773,
+						"height": 479
+					},
+					"settings": {
+						"alt": "",
+						"rel": "",
+						"href": "",
+						"path": "dealkaro_adroid12_logo-meP3qNvyzlSlLl9z.png",
+						"origin": "assets",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"border-radius": "9.5%",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"target": "_self",
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "scale",
+						"type": "element"
+					},
+					"fullResolutionWidth": 1200,
+					"fullResolutionHeight": 1088
+				},
+				"slogan-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 40,
+						"left": 0,
+						"width": 382,
+						"height": 87
+					},
+					"content": "<h2 style=\"color: #FFFFFF\">Secure and Safe Deals Made Easy</h2>",
+					"desktop": {
+						"top": 80,
+						"left": 206,
+						"width": 812,
+						"height": 62
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"about-1-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 42,
+						"left": 0,
+						"width": 382,
+						"height": 40
+					},
+					"content": "<h3 style=\"color: #FFFFFF\">About DealKaro</h3>",
+					"desktop": {
+						"top": 104,
+						"left": 103,
+						"width": 297,
+						"height": 44
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zVvsIy"
+				},
+				"contact-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 16,
+						"left": 0,
+						"width": 382,
+						"height": 44
+					},
+					"content": "<h2 style=\"color: #0D1A10\">Contact Us</h2>",
+					"desktop": {
+						"top": 82,
+						"left": 309,
+						"width": 606,
+						"height": 62
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"hero-subtitle": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 104,
+						"left": 0,
+						"width": 382,
+						"height": 27
+					},
+					"content": "<p style=\"color: #FFFFFF\" class=\"body-large\">Make Secure Deals with DealKaro</p>",
+					"desktop": {
+						"top": 240,
+						"left": 206,
+						"width": 812,
+						"height": 30
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"section1-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 352,
+						"left": 0,
+						"width": 382,
+						"height": 79
+					},
+					"content": "<h3 style=\"color: rgb(13, 26, 16)\">Secure and Convenient Escrow Platform</h3>",
+					"desktop": {
+						"top": 135,
+						"left": 721,
+						"width": 400,
+						"height": 89
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"section2-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 313,
+						"left": 0,
+						"width": 382,
+						"height": 79
+					},
+					"content": "<h3 style=\"color: rgb(13, 26, 16)\">Free Escrow Services For Hassle-Free Deals</h3>",
+					"desktop": {
+						"top": 160,
+						"left": 0,
+						"width": 400,
+						"height": 89
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "section1-title"
+				},
+				"section3-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 356.5,
+						"left": 0,
+						"width": 382,
+						"height": 79
+					},
+					"content": "<h3 style=\"color: #0D1A10\">Sell Anything Without Hassle</h3>",
+					"desktop": {
+						"top": 160,
+						"left": 721,
+						"width": 400,
+						"height": 89
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "section1-title"
+				},
+				"about-1-image-1": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 384,
+						"left": 0,
+						"width": 382,
+						"height": 320
+					},
+					"desktop": {
+						"top": 384,
+						"left": 412,
+						"width": 709,
+						"height": 416
+					},
+					"settings": {
+						"alt": "a man and woman looking at a laptop",
+						"path": "photo-1661956600654-edac218fea67?ixid=M3wzOTE5Mjl8MXwxfHNlYXJjaHwxfHxwbGF0Zm9ybXxlbnwwfHx8fDE2ODc3Njg4MjR8MA&ixlib=rb-4.0.3",
+						"origin": "unsplash",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"borderRadius": 4,
+					"initialElementId": "zgFymg",
+					"fullResolutionWidth": 2971,
+					"fullResolutionHeight": 3961
+				},
+				"contact-1-title": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 40,
+						"left": 0,
+						"width": 382,
+						"height": 38
+					},
+					"content": "<h1 style=\"color: #FFFFFF\">Contact Us</h1>",
+					"desktop": {
+						"top": 80,
+						"left": 103,
+						"width": 503,
+						"height": 60
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zCX0dv"
+				},
+				"section1-image-1": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 66,
+						"left": 0,
+						"width": 382,
+						"height": 214
+					},
+					"desktop": {
+						"top": 80,
+						"left": 0,
+						"width": 606,
+						"height": 336
+					},
+					"settings": {
+						"alt": "",
+						"path": "isometric-mobile-phone-internet-banking-260nw-1178343037-mk3LgMLlj0FrVl6l.png",
+						"origin": "assets",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"fullResolutionWidth": 1204,
+					"fullResolutionHeight": 764
+				},
+				"section2-image-1": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 64,
+						"left": 0,
+						"width": 382,
+						"height": 176
+					},
+					"desktop": {
+						"top": 107,
+						"left": 514,
+						"width": 710,
+						"height": 346
+					},
+					"settings": {
+						"alt": "",
+						"path": "vector-illustration-third-party-escrow-260nw-2225915235-1-AzGygzrr6lH1PQ8r.webp",
+						"origin": "assets",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "section1-image-1",
+					"fullResolutionWidth": 1040,
+					"fullResolutionHeight": 560
+				},
+				"section3-image-1": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 64,
+						"left": 0,
+						"width": 382,
+						"height": 240
+					},
+					"desktop": {
+						"top": 80,
+						"left": 0,
+						"width": 630,
+						"height": 416
+					},
+					"settings": {
+						"alt": "",
+						"path": "online-shopping-ecommerce-concept-web-260nw-1404069032-1-YbND75aonjiVWrW0.webp",
+						"origin": "assets",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "section1-image-1",
+					"fullResolutionWidth": 1472,
+					"fullResolutionHeight": 1120
+				},
+				"about-description": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 88,
+						"left": 0,
+						"width": 382,
+						"height": 192
+					},
+					"content": "<p style=\"color: #0D1A10\" class=\"body\">DealKaro is a revolutionary platform that provides a secure and safe environment for making deals without the risk of scams. We offer an escrow service that ensures both parties are protected, as well as a marketplace for sellers to sell their products without the hassle of submitting GST or KYC details. With our hidden product or deal selling feature, your listings are only visible to the customer and you.</p>",
+					"desktop": {
+						"top": 160,
+						"left": 0,
+						"width": 812,
+						"height": 108
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"contact-1-image-1": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 952,
+						"left": 0,
+						"width": 382,
+						"height": 320
+					},
+					"desktop": {
+						"top": 624,
+						"left": 94,
+						"width": 1027,
+						"height": 480
+					},
+					"settings": {
+						"alt": "white and brown round frame",
+						"path": "photo-1621109246687-10ae613f2d8e?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHwzfHxwbGF0Zm9ybXxlbnwwfHx8fDE2ODc3Njg4MjR8MA&ixlib=rb-4.0.3",
+						"origin": "unsplash",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"fullResolutionWidth": 2800,
+					"fullResolutionHeight": 2800
+				},
+				"contact-1-image-2": {
+					"rel": "nofollow",
+					"type": "GridImage",
+					"mobile": {
+						"top": 464,
+						"left": 40.5,
+						"width": 301,
+						"height": 195
+					},
+					"desktop": {
+						"top": 104,
+						"left": 92,
+						"width": 503,
+						"height": 320
+					},
+					"settings": {
+						"alt": "",
+						"path": "online-shopping-ecommerce-concept-web-260nw-1404069032-1-YbND75aonjiVWrW0.webp",
+						"origin": "assets",
+						"styles": {
+							"align": "center",
+							"justify": "center",
+							"m-element-margin": "0 0 16px 0"
+						},
+						"clickAction": "none"
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"fullResolutionWidth": 1472,
+					"fullResolutionHeight": 1120
+				},
+				"footer-brand-name": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 112,
+						"left": 188.5,
+						"width": 185,
+						"height": 40
+					},
+					"content": "<h3 style=\"color: #0D1A10; --lineHeightDesktop:  1.3; --fontSizeDesktop:  24px\">DealKaro</h3>",
+					"desktop": {
+						"top": 120,
+						"left": 0,
+						"width": 120,
+						"height": 31
+					},
+					"settings": {
+						"styles": {
+							"text": "right",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"contact-1-subtitle": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 96,
+						"left": 0,
+						"width": 382,
+						"height": 27
+					},
+					"content": "<p style=\"color: #FFFFFF\" class=\"body-large\"><span style=\"text-transform: none; letter-spacing: normal\">Get in Touch</span></p>",
+					"desktop": {
+						"top": 164,
+						"left": 103,
+						"width": 503,
+						"height": 30
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zCX0dv"
+				},
+				"about-1-description": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 104,
+						"left": 0,
+						"width": 382,
+						"height": 192
+					},
+					"content": "<p style=\"color: rgb(255, 255, 255)\" class=\"body\">DealKaro is a revolutionary platform that provides a secure and safe environment for making deals without the risk of scams. We offer an escrow service that ensures both parties are protected, as well as a marketplace for sellers to sell their products without the hassle of submitting GST or KYC details. With our hidden product or deal selling feature, your listings are only visible to the customer and you.</p>",
+					"desktop": {
+						"top": 104,
+						"left": 412,
+						"width": 709,
+						"height": 135
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zR_QH-"
+				},
+				"section1-description": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 448,
+						"left": 0,
+						"width": 382,
+						"height": 192
+					},
+					"content": "<p style=\"color: #0D1A10\" class=\"body\">DealKaro is India's No.1 Escrow Platform that provides a secure and safe environment for making deals between two parties. Whether it's a small product deal or a huge property deal, we offer instant payout, 24*7 help support, and refund raised option. With DealKaro, you can make any deal without being scammed and enjoy the convenience of our hidden product or deal selling feature.</p>",
+					"desktop": {
+						"top": 256,
+						"left": 721,
+						"width": 503,
+						"height": 189
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					}
+				},
+				"section2-description": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 416,
+						"left": 0,
+						"width": 382,
+						"height": 192
+					},
+					"content": "<p style=\"color: rgb(13, 26, 16)\" class=\"body\">With DealKaro, you can make any deal between two parties with complete peace of mind. Our escrow platform ensures that your transactions are secure and protected. Whether it's a small product deal or a huge property deal, we've got you covered. And the best part? Our services are completely free of charge. Experience instant payouts, 24/7 help support, and the option to raise refunds. Start making deals today!</p>",
+					"desktop": {
+						"top": 280,
+						"left": 0,
+						"width": 503,
+						"height": 189
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "section1-description"
+				},
+				"section3-description": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 455.5,
+						"left": 0,
+						"width": 382,
+						"height": 192
+					},
+					"content": "<p style=\"color: #0D1A10\" class=\"body\">At DealKaro, we not only provide an escrow platform but also a marketplace for sellers. Sell anything to any customer without the hassle of submitting GST or KYC details. Our platform offers a secure and safe environment, free from scams. Plus, we have a hidden product or deal selling feature, ensuring that only the customer and you can see the details. Join our marketplace today and start selling hassle-free!</p>",
+					"desktop": {
+						"top": 280,
+						"left": 721,
+						"width": 503,
+						"height": 189
+					},
+					"settings": {
+						"styles": {
+							"text": "left",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "section1-description"
+				},
+				"principles-item-title-1": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 160,
+						"left": 30,
+						"width": 322,
+						"height": 24
+					},
+					"content": "<p style=\"color: #0D1A10\" class=\"body\"><strong>Escrow Protection</strong></p>",
+					"desktop": {
+						"top": 237,
+						"left": 51.5,
+						"width": 297,
+						"height": 27
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zDzRhc"
+				},
+				"principles-item-title-2": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 416,
+						"left": 32,
+						"width": 319,
+						"height": 24
+					},
+					"content": "<p class=\"body\"><strong>Instant Payout</strong></p>",
+					"desktop": {
+						"top": 237,
+						"left": 460.5,
+						"width": 297,
+						"height": 27
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zgUtMW"
+				},
+				"principles-item-title-3": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 690,
+						"left": 26,
+						"width": 331,
+						"height": 24
+					},
+					"content": "<p class=\"body\"><strong>24/7 Support</strong></p>",
+					"desktop": {
+						"top": 237,
+						"left": 875.5,
+						"width": 297,
+						"height": 27
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zIpg9s"
+				},
+				"principles-item-description-1": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 200,
+						"left": 23,
+						"width": 336,
+						"height": 96
+					},
+					"content": "<p style=\"color: #0D1A10\" class=\"body\">We provide a trusted escrow platform to ensure the safety of your transactions. Your money is held securely until both parties are satisfied with the deal.</p>",
+					"desktop": {
+						"top": 271,
+						"left": 51.5,
+						"width": 297,
+						"height": 135
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "z19tkt"
+				},
+				"principles-item-description-2": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 456,
+						"left": 24,
+						"width": 334,
+						"height": 72
+					},
+					"content": "<p class=\"body\">With DealKaro, you can enjoy instant payouts once the deal is completed. No more waiting for your money, get it right away.</p>",
+					"desktop": {
+						"top": 271,
+						"left": 464,
+						"width": 297,
+						"height": 108
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "zvuUwF"
+				},
+				"principles-item-description-3": {
+					"type": "GridTextBox",
+					"mobile": {
+						"top": 738,
+						"left": 30,
+						"width": 322,
+						"height": 72
+					},
+					"content": "<p class=\"body\">Our dedicated support team is available round the clock to assist you with any queries or concerns. We are here to help you at any time.</p>",
+					"desktop": {
+						"top": 271,
+						"left": 875.5,
+						"width": 297,
+						"height": 108
+					},
+					"settings": {
+						"styles": {
+							"text": "center",
+							"align": "flex-start",
+							"justify": "flex-start",
+							"m-element-margin": "0 0 16px 0"
+						}
+					},
+					"animation": {
+						"name": "slide",
+						"type": "global"
+					},
+					"initialElementId": "z5cMvh"
+				}
+			},
+			"homePageId": "home",
+			"isNavHidden": false
+		}
+	},
+	"blogCategories": {},
+	"builderCompletedSteps": {
+		"hasChangedLogo": true,
+		"textBoxChangeCount": 21,
+		"hasCompletedPageSeo": true,
+		"homePageTextBoxChangeCount": 7
+	},
+	"siteId": "m6L4Q5vlEQHbBlEB"
+}
